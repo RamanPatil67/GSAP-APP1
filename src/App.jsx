@@ -87,7 +87,7 @@ function App() {
   },[target])
 
   return (
-    <main className="overflow-hidden">
+    <main className="overflow-x-hidden">
      <div className="text-white bg-yellow-500">
           <nav className="flex justify-between items-center px-10 py-2">
             <h1 className="text-2xl font-bold font-serif">Deadpool</h1>
